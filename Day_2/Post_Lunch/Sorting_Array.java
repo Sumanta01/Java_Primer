@@ -17,7 +17,7 @@ public class Sorting_Array {
                 Sorting(array);
         
                 
-                System.out.println("\nArray after Selection Sort:");
+                System.out.println("\nArray after Sorting:");
                 displayArray(array);
             }
         
