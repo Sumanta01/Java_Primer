@@ -25,8 +25,9 @@ public class Array_TwoD {
                     for(int j=0;j<c;j++){
                         arr[i][j]=sc.nextInt();
                     }
-                    System.out.println();
+                    
                 }
+                System.out.println();
                 
                 for(int i=0;i<r;i++){
                     for(int j=0;j<c;j++){
@@ -44,10 +45,9 @@ public class Array_TwoD {
                 break;
             
             }else{
-                System.out.println("Invalid Input!");
+                System.out.println("Invalid Input! Retype the input:");
             }
         }
-
 
 
     }
